@@ -1,0 +1,41 @@
+/*Start Variables */
+
+/* End Variables*/
+/*start Global Rukes */
+*{
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Work Sans', sans-serif;/* the tybe of the font*/
+}
+/*End Global Rules */
+.parent {
+  background-color: #eee; /*the backgroung color of the div we made*/
+}
+.container{ /*we added the container to beatify the web page and to be perfect for all kind of smart devices*/
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #aaa;
+}
+/* Small */
+@media (min-width: 768px) { 
+    .container {
+      width: 750px;
+    }
+  }
+  /* Medium */
+  @media (min-width: 992px) {
+    .container {
+      width: 970px;
+    }
+  }
+  /* Large */
+  @media (min-width: 1200px) {
+    .container {
+      width: 1170px;
+    }
+  }
