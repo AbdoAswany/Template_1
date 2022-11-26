@@ -14,11 +14,12 @@ body {
   background-color: #eee; /*the backgroung color of the div we made*/
 }
 .container{ /*we added the container to beatify the web page and to be perfect for all kind of smart devices*/
-    padding-left: 15px;
-    padding-right: 15px;
+    padding-left: 15px;/*to make the text dosen't start from the left of the page*/
+    padding-right: 15px;/*to make the text dosen't start from the right of the page*/
     margin-left: auto;
     margin-right: auto;
 }
+/*here is the ratios for some devices*/
 /* Small */
 @media (min-width: 768px) { 
     .container {
@@ -47,7 +48,7 @@ body {
     justify-content: space-between;
     align-items: center;
   }
-  .header .logo {
+  .header .logo { /*the width of the logo*/
     width: 60px;
   }
   .header .links {
@@ -67,6 +68,7 @@ body {
     margin-bottom: 5px;
     height: 2px;
   }
+  /*the side bar we made it*/
   .header .links .icon span:first-child {
     width: 100%;
   }
