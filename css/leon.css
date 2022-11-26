@@ -10,7 +10,7 @@
 body {
     font-family: 'Work Sans', sans-serif;/* the tybe of the font*/
 }
-/*End Global Rules */
+
 .parent {
   background-color: #eee; /*the backgroung color of the div we made*/
 }
@@ -19,7 +19,6 @@ body {
     padding-right: 15px;
     margin-left: auto;
     margin-right: auto;
-    background-color: #aaa;
 }
 /* Small */
 @media (min-width: 768px) { 
@@ -39,3 +38,39 @@ body {
       width: 1170px;
     }
   }
+  /*End Global Rules */
+  /* Start Header */
+  .header {
+    padding: 20px;
+  }
+  .header .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .header .logo {
+    width: 60px;
+  }
+  .header .links {
+    position: relative;
+  }
+  .header .links .icon {
+    width: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    height: 3px;
+  }
+  .header .links .icon span {
+    background-color: #333;
+    margin-bottom: 5px;
+  }
+  .header .links .icon span:first-child {
+    width: 100%;
+  }
+  .header .links .icon span:nth-child(2) {
+    width: 60%;
+  }
+  .header .links .icon span:last-child {
+    width: 100%;
+  }
+  /* End Header */
