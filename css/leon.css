@@ -116,3 +116,10 @@ body {
     border-bottom: 1px solid #ddd;
   }
   /* End Header */
+  /* Start Landing Section */
+  .landing {
+    background-image: url(../images/himalayas-mountain-peak-clouds-mountains-cold-daylight-5k-4480x2520-1183.jpg);
+    background-size: cover;
+    height: calc(100vh - 64px);
+  }
+  /* End Landing Section */
