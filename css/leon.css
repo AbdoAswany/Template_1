@@ -197,4 +197,10 @@ body {
     font-size: 17px;
   }
   /* End Features */
+  /* Start services */
+  .services{
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+  /* End services */
   
