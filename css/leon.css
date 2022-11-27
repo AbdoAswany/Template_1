@@ -40,6 +40,11 @@ body {
     }
   }
   /*End Global Rules */
+  /* Start Components */
+  .special-heading {
+    
+  }
+  /* End Components */
   /* Start Header */
   .header {
     padding: 20px;
