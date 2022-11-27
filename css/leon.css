@@ -1,6 +1,8 @@
 /*Start Variables */
 :root{
-  --main-color: #10cab7;}
+  --main-color: #10cab7;
+  --secondary-color: #2c4755;
+}
 /* End Variables*/
 /*start Global Rukes */
 *{
