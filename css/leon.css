@@ -175,7 +175,7 @@ body {
   /* Start Features */
   .features{
     padding-top: var(--section-padding);
-    padding-bottom: 60px;
+    padding-bottom: var(--section-padding);
     background-color: #f6f6f6;
   }
   .features .container{
