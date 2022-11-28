@@ -373,5 +373,6 @@ body {
 }
 .contact .info {
   padding-top: var(--section-padding);
+  padding-bottom: var(--section-padding);
 }
 /* End Contact */
