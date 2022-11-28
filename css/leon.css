@@ -324,6 +324,7 @@ body {
   height: 300px;
   border-left: 80px solid var(--main-color);
   border-bottom: 80px solid var(--main-color);
+  z-index: -1;
 }
 .about .about-content .image img {
   max-width: 100%;
