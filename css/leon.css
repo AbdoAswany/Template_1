@@ -408,4 +408,7 @@ body {
 }
 /* End Contact */
 /* Start Footer */
+.footer {
+  background-color: var(--secondary-color);
+}
 /* End Footer */
