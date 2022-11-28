@@ -384,6 +384,6 @@ body {
   margin-bottom: 15px;
 }
 .contact .info .link {
-  
+  display: block;
 }
 /* End Contact */
