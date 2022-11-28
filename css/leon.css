@@ -276,6 +276,6 @@ body {
   background-color: white;
  }
  .portfolio .portfolio-content .card img {
-  background-color: white;
+  max-width: 100%;
  }
 /* End Portfolio */
