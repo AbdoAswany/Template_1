@@ -393,5 +393,6 @@ body {
 .contact .info .social {
   display: flex;
   justify-content: center;
+  margin-top: 20px;
 }
 /* End Contact */
