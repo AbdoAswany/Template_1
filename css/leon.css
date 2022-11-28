@@ -392,5 +392,6 @@ body {
 }
 .contact .info .social {
   display: flex;
+  justify-content: center;
 }
 /* End Contact */
