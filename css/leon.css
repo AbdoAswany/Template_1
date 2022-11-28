@@ -330,4 +330,7 @@ body {
 .about .about-content .image img {
   max-width: 100%;
 }
+.about .about-content {
+  flex-basis: calc(100% - 500px);
+}
 /* End About */
