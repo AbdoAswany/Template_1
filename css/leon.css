@@ -262,7 +262,7 @@ body {
 /* Start Portfolio */
  .portfolio {
   padding-top: var(--section-padding);
-  padding-bottom: 60px;
+  padding-bottom: var(--section-padding);
   background-color: #f6f6f6;
  }
 /* End Portfolio */
