@@ -366,4 +366,7 @@ body {
 }
 /* End About */
 /* Start Contact */
+.contact {
+  padding-top: var(--section-padding);
+}
 /* End Contact */
