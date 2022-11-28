@@ -317,5 +317,6 @@ body {
   position: absolute;
   background-color: #ebeced;
   width: 100px;
+  height: calc(100% + 80px);
 }
 /* End About */
