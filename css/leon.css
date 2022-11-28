@@ -303,8 +303,8 @@ body {
 }
 .about .about-content .image {
   position: relative;
-  width: 100px;
-  height: 100px;
+  width: 250px;
+  height: 375px;
 }
 .about .about-content .image::before {
   content: "";
