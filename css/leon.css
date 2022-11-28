@@ -177,7 +177,7 @@ body {
   .features{
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
-    --section-background: #f6f6f6;
+    --section-background: var(--section-background);
   }
   .features .container{
     display: grid;
@@ -264,6 +264,6 @@ body {
  .portfolio {
   padding-top: var(--section-padding);
   padding-bottom: var(--section-padding);
-  background-color: #f6f6f6;
+  background-color: var(--section-background);
  }
 /* End Portfolio */
