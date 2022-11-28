@@ -261,7 +261,7 @@ body {
 /* End Services */
 /* Start Portfolio */
  .portfolio {
-  padding-top: 60px;
+  padding-top: var(--section-padding);
   padding-bottom: 60px;
   background-color: #f6f6f6;
  }
