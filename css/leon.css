@@ -316,5 +316,6 @@ body {
   max-width: 100%;
   position: absolute;
   background-color: #ebeced;
+  width: 100px;
 }
 /* End About */
