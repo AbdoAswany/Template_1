@@ -315,5 +315,6 @@ body {
 .about .about-content .image img {
   max-width: 100%;
   position: absolute;
+  background-color: #ebeced;
 }
 /* End About */
