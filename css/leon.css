@@ -388,5 +388,6 @@ body {
   font-size: 30px;
   font-weight: 800;
   color: var(--main-color);
+  text-decoration: none;
 }
 /* End Contact */
