@@ -386,5 +386,6 @@ body {
 .contact .info .link {
   display: block;
   font-size: 30px;
+  font-weight: 800;
 }
 /* End Contact */
