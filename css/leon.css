@@ -377,7 +377,7 @@ body {
   text-align: center;
 }
 .contact .info .label {
-  font-size: 30px;
+  font-size: 35px;
   font-weight: 800;
   color: var(--secondary-color);
   letter-spacing: -2px;
@@ -385,7 +385,7 @@ body {
 }
 .contact .info .link {
   display: block;
-  font-size: 40px;
+  font-size: 35px;
   font-weight: 800;
   color: var(--main-color);
   text-decoration: none;
@@ -407,3 +407,5 @@ body {
   }
 }
 /* End Contact */
+/* Start Footer */
+/* End Footer */
