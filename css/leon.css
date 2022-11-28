@@ -320,6 +320,7 @@ body {
   content: "";
   top: -40px;
   position: absolute;
+  width: 120px;
 }
 .about .about-content .image img {
   max-width: 100%;
