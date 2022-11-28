@@ -371,4 +371,7 @@ body {
   padding-bottom: var(--section-padding);
   background-color: var(--section-background);
 }
+.contact .info {
+  
+}
 /* End Contact */
