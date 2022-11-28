@@ -397,6 +397,7 @@ body {
   font-size: 18px;
 }
 .contact .info .social i {
-  margin-left: 5px;
+  margin-left: 10px;
+  color: var(--secondary-color);
 }
 /* End Contact */
