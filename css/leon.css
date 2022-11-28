@@ -275,4 +275,7 @@ body {
  .portfolio .portfolio-content .card {
   background-color: white;
  }
+ .portfolio .portfolio-content .card img {
+  background-color: white;
+ }
 /* End Portfolio */
