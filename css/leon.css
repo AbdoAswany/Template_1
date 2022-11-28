@@ -286,6 +286,6 @@ body {
  }
  .portfolio .portfolio-content .card .info p {
   color: #777;
-  list-style: none;
+  line-height: 1.6;
  }
 /* End Portfolio */
