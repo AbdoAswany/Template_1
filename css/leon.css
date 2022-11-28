@@ -318,5 +318,7 @@ body {
   background-color: #ebeced;
   width: 100px;
   height: calc(100% + 80px);
+  top: -40px;
+  left: -20px;
 }
 /* End About */
