@@ -318,6 +318,7 @@ body {
 }
 .about .about-content .image::after {
   content: "";
+  top: -40px;
 }
 .about .about-content .image img {
   max-width: 100%;
