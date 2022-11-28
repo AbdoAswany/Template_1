@@ -322,6 +322,7 @@ body {
   position: absolute;
   width: 120px;
   height: 300px;
+  border-left: 80px solid var(--main-color);
 }
 .about .about-content .image img {
   max-width: 100%;
