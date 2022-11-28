@@ -307,9 +307,12 @@ body {
   height: 375px;
 }
 .about .about-content .image::before {
-  content: '';
+  content: "";
 }
 .about .about-content .image::after {
-  content: '';
+  content: "";
+}
+.about .about-content .image img {
+  max-width: 100%;
 }
 /* End About */
