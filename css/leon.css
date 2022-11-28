@@ -400,4 +400,7 @@ body {
   margin-left: 10px;
   color: var(--secondary-color);
 }
+@media(max-width:767px){
+
+}
 /* End Contact */
