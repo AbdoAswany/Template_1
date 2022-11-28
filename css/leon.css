@@ -303,17 +303,11 @@ body {
 }
 .about .about-content .image {
   position: relative;
-  width: 250px;
-  height: 375px;
+  width: 100px;
+  height: 100px;
 }
 .about .about-content .image::before {
   content: "";
-}
-.about .about-content .image::after {
-  content: "";
-}
-.about .about-content .image img {
-  max-width: 100%;
   position: absolute;
   background-color: #ebeced;
   width: 100px;
@@ -321,5 +315,11 @@ body {
   top: -40px;
   left: -20px;
   z-index: -1;
+}
+.about .about-content .image::after {
+  content: "";
+}
+.about .about-content .image img {
+  max-width: 100%;
 }
 /* End About */
